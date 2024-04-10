@@ -1,0 +1,24 @@
+{
+  "name": "real-er",
+  "version": "0.1.0",
+  "description": "AI Friendly ZK Captcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chtnnh/real-er.git"
+  },
+  "keywords": [
+    "captcha",
+    "zk",
+    "ai"
+  ],
+  "author": "chtnnh",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/chtnnh/real-er/issues"
+  },
+  "homepage": "https://github.com/chtnnh/real-er#readme"
+}
