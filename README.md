@@ -10,8 +10,7 @@ You can find the specification for this project [here](https://blog.reclaimproto
 - [ ] Sketch out timelines and sub-milestones for MVP
 
 ## System Design
-
+WIP
 
 ## Author
 Chaitanya Mittal, 2024
-
